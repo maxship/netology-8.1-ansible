@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../devops-netology/.idea/devops-netology.iml" filepath="$PROJECT_DIR$/../devops-netology/.idea/devops-netology.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/netology-8.1-ansible.iml" filepath="$PROJECT_DIR$/.idea/netology-8.1-ansible.iml" />
-    </modules>
-  </component>
-</project>
